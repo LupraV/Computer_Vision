@@ -1,0 +1,3 @@
+/Users/lvmacpro/Desktop/731_CVision/c++_projects/Kuwahara_parallel/build/CMakeFiles/KuwaharaFilter.dir
+/Users/lvmacpro/Desktop/731_CVision/c++_projects/Kuwahara_parallel/build/CMakeFiles/edit_cache.dir
+/Users/lvmacpro/Desktop/731_CVision/c++_projects/Kuwahara_parallel/build/CMakeFiles/rebuild_cache.dir
