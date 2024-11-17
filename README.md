@@ -13,3 +13,6 @@ CV coding implementation projects in C++ for 159731 Studies in Computer Vision (
 This study compares the performance of various preprocessing techniques for Traffic Sign Recognition (TSR) using Histogram of Oriented Gradients (HOG) and Support Vector Machine (SVM) on the German Traffic Sign Recognition Benchmark (GTSRB) dataset. Techniques such as CLAHE, HUE, and YUV were evaluated for their impact on classification accuracy. Results indicate that YUV in particular significantly enhance the performance of the HOG-SVM classifier (improving accuracy from 89.65% to **91.25%**), providing insights into improvements for preprocessing pipeline of TSR applications.
 
 Keywords: SVM; TSR; GTSRB; HOG; Road Signs Recognition; Traffic Signs; Classification.
+
+## License
+This project is licensed under the [Apache License 2.0](LICENSE).
