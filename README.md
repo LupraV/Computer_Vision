@@ -7,6 +7,7 @@ CV coding implementation projects in C++ for 159731 Studies in Computer Vision (
 - Final project: GTSRB traffic sign classification
 
 ## Comparing Performance of Preprocessing Techniques for Traffic Sign Recognition (GTSRB) Using a HOG-SVM (Final Project)
+arXiv: https://arxiv.org/abs/2504.09424
 
 ### Abstract
 
